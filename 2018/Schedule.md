@@ -67,4 +67,4 @@ Agenda
 16h00 Raffle and goodbye!
 -------------------------
 
-- **Detail:** We will raffle some .NET Conf UY tickets! Thanks for coming to the Global Azure Bootcamp Uruguay 2018.
+- **Detail:** We will raffle several prizes including .NET Conf UY tickets! Thanks for coming to the Global Azure Bootcamp Uruguay 2018.
