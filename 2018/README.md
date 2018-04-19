@@ -1,22 +1,24 @@
-# Azure Bootcamp Asp.Net Core & DevOps
+# Azure Bootcamp ASP.NET Core & DevOps
 
 <img align="left" src="Media/AzureBootCampQuebec_2.png" width="250">
 
 All around the world user groups and communities want to learn about Azure and Cloud Computing!
 
-On **November 9, 2017**, Quebec communitie will come together for a special edition of an Azure Bootcamp event!
+On **April 21, 2018**, Montevideo, Uruguay community will come together for a special edition of an Azure Bootcamp event!
 
 You will find included in this repository all materials use during the demo so you can try it at home.
 
-## Our speakers for the Azure Bootcamp Asp.Net Core & DevOps 2017
+## Our speakers and organizers for the Azure Bootcamp
 
-- Hinault Donfack (@hinault)
-- Mathieu Benoit (@mathieu-benoit)
-- Frank Boucher (@fboucher)
+- Fabian Fernandez (@kzfabi) / Co-Organizer / Speaker
+- Nicolas Bonora / Co-Organizer / Speaker
+- Brian Hardy (@hardyr93) / Co-Organizer / Speaker
+- Charlie Hackenbruch / Co-Organizer / Speaker
+- Bruno Giordano / Co-Organizer
 
 You can find the complete shedule [here](./Schedule.md).
 
-## Technology Stack for the Azure Bootcamp Asp.Net Core & DevOps 2017
+## Technology Stack for the Azure Bootcamp
 
 - [ASP.NET Core (MVC)](https://www.asp.net/core)
 - [Azure Web APP](https://azure.microsoft.com/en-ca/services/app-service/web/)
@@ -28,7 +30,7 @@ You can find the complete shedule [here](./Schedule.md).
 - [Visual Studio Team Services)](https://www.visualstudio.com/team-services/)
 
 ## What you will need before the bootcamp?
-Before the bootcamp, we encourage you to make sure you have all the requirement software so you can concentrate on learning and not running installations.  Make sure you get all the source code and install all the required software.
+Before the bootcamp, we encourage you to make sure you have all the required software so you can concentrate on learning and not running installations. Make sure you get all the source code and install all the required software.
 
 ### Azure subscription
 If you don't own an Azure subscription already, you can create your free account today. It comes with 200$ credit, so you can experience almost everything without spending a dime.
@@ -38,9 +40,9 @@ Make sure to have your account up and ready before the bootcamp.
 [Create your free Azure account today](https://azure.microsoft.com/en-us/free/)
 
 ### Visual Studio
-To use the demo code, you are required to install Microsoft Visual studio. The minimum version of Visual Studio to use with the demo code is 2017 version 15.4. [You can download a free trial of Visual Studio here](https://www.visualstudio.com/en-us/news/releasenotes/vs2017-relnotes)
+To use the demo code, you are required to install Microsoft Visual Studio. The minimum version of Visual Studio to use with the demo code is 2017 version 15.4. [You can download a free trial of Visual Studio here](https://www.visualstudio.com/en-us/news/releasenotes/vs2017-relnotes)
 
-Visual Studio 2017 introduce the new installation experience. You can use it to customize your installation by selecting the feature sets�or workloads�that you want. Select ASP.NET and Web developement and select Azure development. 
+Visual Studio 2017 introduces the new installation experience. You can use it to customize your installation by selecting the feature sets�or workloads�that you want. Select ASP.NET and Web developement and select Azure development. 
 
 ![img1][img1]
 
