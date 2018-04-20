@@ -1,4 +1,4 @@
-# Azure Bootcamp ASP.NET Core & DevOps
+# Welcome!
 
 ![GABLogo](./Media/gab2018.jpeg)
 
