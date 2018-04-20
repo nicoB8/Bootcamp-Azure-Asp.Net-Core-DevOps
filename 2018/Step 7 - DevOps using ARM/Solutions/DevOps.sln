@@ -7,12 +7,11 @@ Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "Deployment", "Deployment\De
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code snippets", "Code snippets", "{E6031A67-E222-4A90-B701-ACA8F105659A}"
 	ProjectSection(SolutionItems) = preProject
-		..\Code snippets\1.json = ..\Code snippets\1.json
-		..\Code snippets\2.json = ..\Code snippets\2.json
-		..\Code snippets\3.json = ..\Code snippets\3.json
-		..\Code snippets\4.json = ..\Code snippets\4.json
-		..\Code snippets\5.json = ..\Code snippets\5.json
-		..\Code snippets\6.json = ..\Code snippets\6.json
+		..\Code snippets\1-parameters.json = ..\Code snippets\1-parameters.json
+		..\Code snippets\1-resources.json = ..\Code snippets\1-resources.json
+		..\Code snippets\1-variables.json = ..\Code snippets\1-variables.json
+		..\Code snippets\2-resources.json = ..\Code snippets\2-resources.json
+		..\Code snippets\2-variables.json = ..\Code snippets\2-variables.json
 	EndProjectSection
 EndProject
 Global
@@ -28,5 +27,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2455B330-4333-4645-B830-058FEC649A80}
 	EndGlobalSection
 EndGlobal
