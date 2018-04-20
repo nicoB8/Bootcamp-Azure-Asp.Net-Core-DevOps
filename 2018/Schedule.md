@@ -61,7 +61,7 @@ Agenda
 15h15-16h00 Step 7 - DevOps
 ------------------
 
-- **Speaker:** TBD
+- **Speaker:** Fabian Fernandez
 - **Detail:** How to script the Environment
 
 16h00 Raffle and goodbye!
