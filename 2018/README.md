@@ -1,5 +1,7 @@
 # Azure Bootcamp ASP.NET Core & DevOps
 
+![GABLogo](./Media/gab2018.jpeg)
+
 All around the world user groups and communities want to learn about Azure and Cloud Computing!
 
 On **April 21, 2018**, Montevideo, Uruguay community will come together for a special edition of an Azure Bootcamp event!
