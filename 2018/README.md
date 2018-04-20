@@ -16,7 +16,7 @@ You will find included in this repository all materials use during the demo so y
 - Charlie Hackenbruch / Co-Organizer / Speaker
 - Bruno Giordano / Co-Organizer
 
-You can find the complete shedule [here](./Schedule.md).
+You can find the complete schedule [here](./Schedule.md).
 
 ## Technology Stack for the Azure Bootcamp
 
