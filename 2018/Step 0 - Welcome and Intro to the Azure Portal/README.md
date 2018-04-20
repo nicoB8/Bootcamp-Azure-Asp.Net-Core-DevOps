@@ -1,6 +1,8 @@
 # Goal
 This suite of labs will guide you to build a functional web application. The purpose of this application is to save the time for the user to run 5 km, calculate some statistics and display all the results.
 
+See the [Slides](https://docs.google.com/presentation/d/1HzSkleDcxOJTLA7g1-QCPhGILi13DkyVSi0aeU-SlH0/edit?usp=sharing) of this step.
+
 ## Step 1
 
 Familiorisation to the Azure portal and a bit of voculabulary.
