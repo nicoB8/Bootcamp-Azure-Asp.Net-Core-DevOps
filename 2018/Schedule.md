@@ -4,7 +4,7 @@ Agenda
 8h30-9h00 Greeting
 ------------------
 
-- **Speaker:** Organizers, Main: Fabian
+- **Speaker:** Organizers, Main: Fabian Fernandez
 - **Detail:** Getting ready, last little update, explaining the schedule of the day.
 
 9h00-9h30 Step 0 - Intro + Portal Azure
