@@ -27,7 +27,7 @@ You can find the complete shedule [here](./Schedule.md).
 - [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview)
 - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
 - [Azure Application Insights](https://azure.microsoft.com/en-us/services/application-insights/)
-- [Visual Studio Team Services)](https://www.visualstudio.com/team-services/)
+- [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
 
 ## What you will need before the bootcamp?
 Before the bootcamp, we encourage you to make sure you have all the required software so you can concentrate on learning and not running installations. Make sure you get all the source code and install all the required software.
